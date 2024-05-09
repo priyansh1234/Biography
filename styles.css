@@ -1,0 +1,76 @@
+
+
+
+body{
+    background-color: green;
+}
+h1{
+    color: orange;
+    margin-top: 70px;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline 2px solid black;
+}
+img{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.biography{
+    width: 1000px;
+    height: 900px;
+    background-color:darkgreen;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.birth{
+    width: 800px; 
+    height:50px;
+    background-color:yellow;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    color: black;
+    font-size: 30px;
+}
+.birth{
+    width: 800px; 
+    height:50px;
+    background-color:yellow;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    color: black;
+    font-size: 30px;
+}
+.education{
+    width: 800px; 
+    height:230px;
+    font-size: 30px;
+    background-color:yellow;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    color: black;
+    font-size: 30px;
+}
+.office{
+    width: 800px; 
+    height:100px;
+    background-color:yellow;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1.work{
+    color: black;
+    font-size: 30px;
+}
